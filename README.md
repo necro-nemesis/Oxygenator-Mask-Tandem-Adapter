@@ -15,7 +15,7 @@ International License][cc-by-sa].
 ## Assembly (Snap on inlet/outlet fitting and blow out valve snap in plug)
 
 ![](https://i.imgur.com/nI8OaUO.jpg)
-![](https://i.imgur.com/mxR2WiK.png)
+![]([https://i.imgur.com/9OxHlw9.png)
 
 The ventilator-mask-adapter has been deigned to be fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
 
