@@ -27,6 +27,7 @@ The project commenced in response to identifiable shortages in ventilators and r
 This valve design was inspired by Issinova's similar adaptation.
 
 ![](https://i.imgur.com/9OxHlw9.png)
+![](https://i.imgur.com/EWX3NAb.jpg)
 ![](https://i.imgur.com/tgf6NgF.jpg)
 ![](https://i.imgur.com/MeFmqeV.jpg)
 ![](https://i.imgur.com/Jo613LC.jpg)
